@@ -1,0 +1,22 @@
+{
+  "name": "angular-boilerplate",
+  "homepage": "https://github.com/caseywreed/angular-boilerplate",
+  "authors": [
+    "Casey Reed <casey.reed.dev@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.1",
+    "angular": "^1.6.1",
+    "jquery": "^3.1.1"
+  }
+}
